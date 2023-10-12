@@ -1,0 +1,11 @@
+
+- ALGORITMO = L'algoritmo è un insieme di operazioni ordinate che permette di risolvere un certo problema. 
+Si può riassumere la sua struttura in una sorta di schema risolutivo che raccoglie tutte i passaggi utili per arrivare ad una conclusione risolutiva. Si potrebbe paragonare un algoritmo al procedimento di un problema di geometria o allo sviluppo di una storia una volta che tutti i suoi personaggi sono stati impostati.
+
+- VARIABILE = Una variabile è un dato che viene dichiarato con un certo valore e un certo tipo. Esistono diversi tipi di variabile (stringa, numero...) e possono, per questo, svolgere funzioni diverse. Si potrebbe pensare ad una variabile come ai dati di un problema o ai personaggi di un libro che serviranno poi rispetticvamente a risolvere il problema o ai fini dell'evoluzione della storia. 
+All'interno di una variabile, però, possiamo trovare anche dati parziali uniti tra loro, potremmo immaginarli anche come la somma di due segmenti riportati in un unico dato o come una coppia di personaggi che si comporta come unita all'interno delle vicende. Ovviamente, anche se si considera il paragone presentato, i nomi delle varibabili devono essere unici di modo da non generare alcun grado di confusione (non potrò dare lo stesso nome a due personaggi diversi o utilizzare le stesse lettere per indicare due segmenti differenti).
+Inoltre, le variabili devono considerarsi come generiche affinchè abbiano il maggior grado di riutilizzabilità. Devono, quindi, essere adattabili anche a nuovi problemi simili o a una storia di quel determinato genere che si sta trattando.
+
+- UNDEFINED/NULL = No, i due valori sono differenti. Nel caso di "undefined" si ha una variabile che è stata dichiarata, ma a cui non è stato assegnato alcun valore. 
+Nel caso di "null", invece, si sceglie di non voler assegnare alcun valore alla variabile a cui viene associato.
+
